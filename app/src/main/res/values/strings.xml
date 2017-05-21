@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MailMiddleware</string>
+    <string name="hello_world">打开文件</string>
+    <string name="menu_settings">Settings</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_file_manager_main">FileManagerMainActivity</string>
+</resources>
